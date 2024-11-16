@@ -1,0 +1,23 @@
+# Dependências do Node.js
+node_modules/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e Ferramentas de Desenvolvimento
+.idea/
+.vscode/
+
+# Outros
+*.log
